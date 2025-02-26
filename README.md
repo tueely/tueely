@@ -1,4 +1,4 @@
-# Ayush Ranjan (Tueely)
+# Ayush Ranjan
 I make open-source contributions because it helps me learn coding and make a positive impact.
 ### My Goal 
 To eventually switch this account from semi-initiative to fully for my initiative, Tueely.
