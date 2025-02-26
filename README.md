@@ -1,3 +1,3 @@
-## Ayush Ranjan (.com)
+## Ayush Ranjan
 
 Think Green go Blue
