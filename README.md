@@ -1,10 +1,9 @@
-# Ayush Ranjan
-I make open-source contributions because it helps me learn coding and make a positive impact.
-### My Goal 
-To eventually switch this account from semi-initiative to fully for my initiative, Tueely.
-### Tueely's Goal
-To make a difference in the community, its best to provide services at a fair price and help without an unreasonable pricetag. 
+## Tueely
+tech doesn't change the world,
+people using it do
 
-## About Tueely
-Tueely is an initiative that makes technology products for reasonable prices, aimed to help the community.
-Some examples include websites for the price of coffee, app development for reasonable prices and customized programmed projects.
+making tech research accessible for people to use is far more important than the research itself, because true research lies in making something useful for people who need it most, not in profiting from their needs
+
+Tueely works by connecting those who need tech research with those who can provide it, while fairly rewarding researchers, ensuring that all research, whether for investors or general innovation, creates value for everyone to benefit from
+
+This is Tueely's GitHub page with open-source code for TIS/TRS and TIP/TRP algorithms and repositories for research ventures
